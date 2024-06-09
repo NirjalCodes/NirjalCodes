@@ -27,9 +27,9 @@ Welcome to my little corner of the GitHub universe. I'm NirjalCodes, a 14-year-o
    - [Check out the Sleepy Game](https://github.com/NirjalCodes/stolencode)
 
 4. **Hate:** Not as ominous as it sounds. It's just a prototype for a website. Promise.
-   - [Spread Love, Not Hate](https://github.com/NirjalCodes/hate)
-   - [And more prototypes...](https://github.com/NirjalCodes/grind)
-   - [Even more prototypes!](https://github.com/NirjalCodes/bhaktapurnistschool)
+   - [Spread Love, Not Hate](https://github.com/NirjalCodes/hate) ([View on the Web](https://nirjalcodes.github.io/hate))
+   - [And more prototypes...](https://github.com/NirjalCodes/grind) ([View on the Web](https://nirjalcodes.github.io/grind))
+   - [Even more prototypes!](https://github.com/NirjalCodes/bhaktapurnistschool) ([View on the Web](https://nirjalcodes.github.io/bhaktapurnistschool))
 
 5. **DumDum:** A whimsical project where animations come to life and mischief ensues.
    - [Experience the Animation Playground](https://github.com/NirjalCodes/dumdum)
